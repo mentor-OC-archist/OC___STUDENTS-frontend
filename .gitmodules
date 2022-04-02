@@ -1,0 +1,33 @@
+[submodule "Arnault/P3"]
+	path = Arnault/P3
+	url = git@github.com:NGOUASSA/ArnaultNgouassa_3_05032022.git
+[submodule "Arnault/P4"]
+	path = Arnault/P4
+	url = git@github.com:NGOUASSA/Projet_4.git
+[submodule "Anthony/projet-2-final"]
+	path = Anthony/projet-2-final
+	url = git@github.com:lartduparadox/projet-2-final.git
+[submodule "Anthony/projet.3_2"]
+	path = Anthony/projet.3_2
+	url = git@github.com:lartduparadox/projet.3_2.git
+[submodule "Anthony/projet.4"]
+	path = Anthony/projet.4
+	url = git@github.com:lartduparadox/projet.4.git
+[submodule "Nnena/P2"]
+	path = Nnena/P2
+	url = git@github.com:wea2ne/OSAROKIONnena_2_25032021.git
+[submodule "Nnena/P3"]
+	path = Nnena/P3
+	url = git@github.com:wea2ne/NnenaOSAROKIO_3_04052021.git
+[submodule "Nnena/P4"]
+	path = Nnena/P4
+	url = git@github.com:wea2ne/NnenaOsarokio_4_24062021.git
+[submodule "Nnena/P5"]
+	path = Nnena/P5
+	url = git@github.com:wea2ne/NnenaOsarokio_5_240721.git
+[submodule "Meline/P2"]
+	path = Meline/P2
+	url = git@github.com:MelineM92/MelineMorchipont_2_30032021.git
+[submodule "Meline/P3"]
+	path = Meline/P3
+	url = git@github.com:MelineM92/P3_Morchipont_Meline.git

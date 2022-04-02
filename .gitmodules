@@ -31,3 +31,9 @@
 [submodule "Meline/P3"]
 	path = Meline/P3
 	url = git@github.com:MelineM92/P3_Morchipont_Meline.git
+[submodule "____samples____/P4/OC---Developpeur-web---Projet-4"]
+	path = ____samples____/P4/OC---Developpeur-web---Projet-4
+	url = git@github.com:Guetso/OC---Developpeur-web---Projet-4.git
+[submodule "____samples____/P4/JeanneS.Dev_4_21102020"]
+	path = ____samples____/P4/JeanneS.Dev_4_21102020
+	url = git@github.com:jeanne-s-dev/JeanneS.Dev_4_21102020.git

@@ -2,12 +2,13 @@
 
 ## Actuels:
 
-- Anthony
-- Alexis
+- Anthony: 25/10/21
+- Alexis: 02/04/22
+- Brahim: 17/04/22
 
 ## Anciens:
 
-- Arnault
-- Imane
-- Méline
-- Nnéna
+- Arnault: 28/10/21
+- Imane: 24/06/21
+- Méline: 19/03/21
+- Nnéna: 19/03/21

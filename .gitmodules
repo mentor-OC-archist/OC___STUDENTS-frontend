@@ -4,15 +4,6 @@
 [submodule "Arnault/P4"]
 	path = Arnault/P4
 	url = git@github.com:NGOUASSA/Projet_4.git
-[submodule "Anthony/projet-2-final"]
-	path = Anthony/projet-2-final
-	url = git@github.com:lartduparadox/projet-2-final.git
-[submodule "Anthony/projet.3_2"]
-	path = Anthony/projet.3_2
-	url = git@github.com:lartduparadox/projet.3_2.git
-[submodule "Anthony/projet.4"]
-	path = Anthony/projet.4
-	url = git@github.com:lartduparadox/projet.4.git
 [submodule "Nnena/P2"]
 	path = Nnena/P2
 	url = git@github.com:wea2ne/OSAROKIONnena_2_25032021.git
@@ -31,9 +22,18 @@
 [submodule "Meline/P3"]
 	path = Meline/P3
 	url = git@github.com:MelineM92/P3_Morchipont_Meline.git
-[submodule "____samples____/P4/OC---Developpeur-web---Projet-4"]
-	path = ____samples____/P4/OC---Developpeur-web---Projet-4
-	url = git@github.com:Guetso/OC---Developpeur-web---Projet-4.git
-[submodule "____samples____/P4/JeanneS.Dev_4_21102020"]
-	path = ____samples____/P4/JeanneS.Dev_4_21102020
-	url = git@github.com:jeanne-s-dev/JeanneS.Dev_4_21102020.git
+[submodule "Alexis/P2"]
+	path = Alexis/P2
+	url = git@github.com:Migmatic/Booky.git
+[submodule "Alexis/P3"]
+	path = Alexis/P3
+	url = git@github.com:Migmatic/ohmyfood.git
+[submodule "Anthony/P2"]
+	path = Anthony/P2
+	url = git@github.com:lartduparadox/projet-2.git
+[submodule "Anthony/P3"]
+	path = Anthony/P3
+	url = git@github.com:lartduparadox/projet.3_2.git
+[submodule "Anthony/P4"]
+	path = Anthony/P4
+	url = git@github.com:lartduparadox/projet.4.git

@@ -37,3 +37,9 @@
 [submodule "Anthony/P4"]
 	path = Anthony/P4
 	url = git@github.com:lartduparadox/projet.4.git
+[submodule "Brahim/P2"]
+	path = Brahim/P2
+	url = git@github.com:haiku-san/OC-P2.git
+[submodule "Brahim/cv"]
+	path = Brahim/cv
+	url = git@github.com:haiku-san/cv-porfolio.git

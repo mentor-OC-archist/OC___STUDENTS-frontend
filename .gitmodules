@@ -43,3 +43,9 @@
 [submodule "Brahim/cv"]
 	path = Brahim/cv
 	url = git@github.com:haiku-san/cv-porfolio.git
+[submodule "Brahim/P3"]
+	path = Brahim/P3
+	url = git@github.com:haiku-san/OC-P3.git
+[submodule "Anthony/P5"]
+	path = Anthony/P5
+	url = git@github.com:lartduparadox/projet.5.git

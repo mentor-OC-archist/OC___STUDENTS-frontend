@@ -49,3 +49,9 @@
 [submodule "Anthony/P5"]
 	path = Anthony/P5
 	url = git@github.com:lartduparadox/projet.5.git
+[submodule "Alexis/P4"]
+	path = Alexis/P4
+	url = git@github.com:Migmatic/Projet-4-OP.git
+[submodule "Brahim/P4"]
+	path = Brahim/P4
+	url = git@github.com:haiku-san/OC-P4.git

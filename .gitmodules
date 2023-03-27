@@ -55,3 +55,135 @@
 [submodule "Brahim/P4"]
 	path = Brahim/P4
 	url = git@github.com:haiku-san/OC-P4.git
+[submodule "Alexis/P5"]
+	path = Alexis/P5
+	url = git@github.com:Migmatic/P5-Kanap.git
+[submodule "____samples____/P5/RomainSire"]
+	path = ____samples____/P5/RomainSire
+	url = git@github.com:RomainSire/OC-P5-Orinoco.git
+[submodule "____samples____/P5/jmcob"]
+	path = ____samples____/P5/jmcob
+	url = https://github.com/jmcob/kanap
+[submodule "____samples____/P5/olvramaroz"]
+	path = ____samples____/P5/olvramaroz
+	url = https://github.com/olvramaroz/5-KANAP
+[submodule "____samples____/P5/gtnsimon"]
+	path = ____samples____/P5/gtnsimon
+	url = https://github.com/gtnsimon/kanap
+[submodule "____samples____/P5/mathhetru"]
+	path = ____samples____/P5/mathhetru
+	url = https://github.com/mathhetru/P5_Kanap
+[submodule "____samples____/P5/GuillaumeAubin"]
+	path = ____samples____/P5/GuillaumeAubin
+	url = https://github.com/GuillaumeAubin/Kanap_Site_Ecommerce_JavaScript
+[submodule "____samples____/P5/withTests/training-dev-fr"]
+	path = ____samples____/P5/withTests/training-dev-fr
+	url = https://github.com/training-dev-fr/P5_Kanap_DW_OpenClassRooms
+[submodule "Brahim/P5"]
+	path = Brahim/P5
+	url = git@github.com:haiku-san/OC-P5.git
+[submodule "Laura/P2"]
+	path = Laura/P2
+	url = https://github.com/Cyber-laura/Projet-2
+[submodule "Laura/cv"]
+	path = Laura/cv
+	url = git@github.com:Cyber-laura/Portfolio.git
+[submodule "Laura/_/defi-integrer-une-maquette"]
+	path = Laura/_/defi-integrer-une-maquette
+	url = git@github.com:Cyber-laura/defi-integrer-une-maquette.git
+[submodule "Laurent/P2"]
+	path = Laurent/P2
+	url = git@github.com:Laurent-Chv/Projet_2_Chevau_Laurent.git
+[submodule "Laurent/cv"]
+	path = Laurent/cv
+	url = https://github.com/Laurent-Chv/Portfolio_OC
+[submodule "Laurent/_/P2-Defi"]
+	path = Laurent/_/P2-Defi
+	url = git@github.com:Laurent-Chv/P2-Defi.git
+[submodule "____samples____/P6/Patrick-Garcia1"]
+	path = ____samples____/P6/Patrick-Garcia1
+	url = git@github.com:Patrick-Garcia1/P6-test.git
+[submodule "Laurent/P3"]
+	path = Laurent/P3
+	url = https://github.com/Laurent-Chv/Projet_3_Chevau_Laurent
+[submodule "Laura/P3"]
+	path = Laura/P3
+	url = https://github.com/Cyber-laura/Projet-3
+[submodule "Laura/P4"]
+	path = Laura/P4
+	url = git@github.com:Cyber-laura/Projet-4.git
+[submodule "Laurent/P4"]
+	path = Laurent/P4
+	url = https://github.com/Laurent-Chv/OC_P4
+[submodule "Laura/P4_"]
+	path = Laura/P4_
+	url = git@github.com:Cyber-laura/La-Panthere.git
+[submodule "____samples____/P7/P7_Garcia_Patrick"]
+	path = ____samples____/P7/P7_Garcia_Patrick
+	url = https://github.com/Patrick-Garcia1/P7_Garcia_Patrick
+[submodule "Brahim/P6"]
+	path = Brahim/P6
+	url = https://github.com/haiku-san/OC-P6
+[submodule "Jean Fabrice/P2"]
+	path = Jean Fabrice/P2
+	url = https://github.com/Fabe974Dev/Projet_2_booki
+[submodule "Laurent/P4_"]
+	path = Laurent/P4_
+	url = https://github.com/Laurent-Chv/OC_P4
+[submodule "Alexis/P6"]
+	path = Alexis/P6
+	url = https://github.com/Migmatic/backend
+[submodule "Laura/P5"]
+	path = Laura/P5
+	url = https://github.com/Cyber-laura/Kanap
+[submodule "Nora/P3"]
+	path = Nora/P3
+	url = https://github.com/AEZ1989/ohmyfood_sylveste_nora_11102022
+[submodule "Jean Fabrice/P3"]
+	path = Jean Fabrice/P3
+	url = https://github.com/Fabe974Dev/p3-ohmyfood
+[submodule "Laurent/P5"]
+	path = Laurent/P5
+	url = https://github.com/Laurent-Chv/OC_P5
+[submodule "Brahim/P7"]
+	path = Brahim/P7
+	url = git@github.com:haiku-san/OC-P7.git
+[submodule "Alexis/P7"]
+	path = Alexis/P7
+	url = https://github.com/Migmatic/P7_Kanap
+[submodule "Laura/P6"]
+	path = Laura/P6
+	url = git@github.com:Cyber-laura/Sauce-Piquante.git
+[submodule "Laurent/P6"]
+	path = Laurent/P6
+	url = https://github.com/Laurent-Chv/OC_P6
+[submodule "Alexis/P7BIS"]
+	path = Alexis/P7BIS
+	url = https://github.com/Migmatic/p7_kasa
+[submodule "Laura/P7"]
+	path = Laura/P7
+	url = https://github.com/Cyber-laura/P7
+[submodule "Nora/P5"]
+	path = Nora/P5
+	url = https://github.com/AEZ1989/kanap
+[submodule "Rémy/P2"]
+	path = Rémy/P2
+	url = https://github.com/RemyMgit/Projet-2
+[submodule "Nora/P6"]
+	path = Nora/P6
+	url = https://github.com/AEZ1989/piquante
+[submodule "William/P3"]
+	path = William/P3
+	url = https://github.com/Williambe16/P3
+[submodule "Laura/PORTFOLIO"]
+	path = Laura/PORTFOLIO
+	url = git@github.com:Cyber-laura/Portfolio-d-veloppeuse-web.git
+[submodule "Laurent/OC_P7-Kasa"]
+	path = Laurent/OC_P7-Kasa
+	url = git@github.com:Laurent-Chv/OC_P7-Kasa.git
+[submodule "Nora/P2"]
+	path = Nora/P2
+	url = git@github.com:AEZ1989/projet_2.git
+[submodule "Nora/P4"]
+	path = Nora/P4
+	url = git@github.com:AEZ1989/panthere.git

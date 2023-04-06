@@ -187,3 +187,6 @@
 [submodule "Nora/P4"]
 	path = Nora/P4
 	url = git@github.com:AEZ1989/panthere.git
+[submodule "Rémy/P3"]
+	path = Rémy/P3
+	url = https://github.com/RemyMgit/Projet-3

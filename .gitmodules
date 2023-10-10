@@ -190,3 +190,48 @@
 [submodule "Rémy/P3"]
 	path = Rémy/P3
 	url = https://github.com/RemyMgit/Projet-3
+[submodule "Adrien/P2"]
+	path = Adrien/P2
+	url = https://github.com/httpMage/Poua_Adrien_2_HTMLCSS_052023
+[submodule "Adrien/P3"]
+	path = Adrien/P3
+	url = https://github.com/httpMage/projet-2
+[submodule "Rémy/P4"]
+	path = Rémy/P4
+	url = https://github.com/RemyMgit/Projet4
+[submodule "William/P5"]
+	path = William/P5
+	url = https://github.com/Williambe16/P5_Kanap
+[submodule "Rémi/P2"]
+	path = Rémi/P2
+	url = git@github.com:RemiDR/booki.git
+[submodule "Rémy/P5"]
+	path = Rémy/P5
+	url = https://github.com/RemyMgit/Projet-5
+[submodule "Adrien/P6"]
+	path = Adrien/P6
+	url = https://github.com/httpMage/Poua_Adrien_6_Kasa_072023
+[submodule "Gaetan/P2"]
+	path = Gaetan/P2
+	url = https://github.com/Vultronx/P2-OpenClassrooms
+[submodule "Rémy/P8"]
+	path = Rémy/P8
+	url = git@github.com:RemyMgit/projet-8.git
+[submodule "Rémy/P7"]
+	path = Rémy/P7
+	url = git@github.com:RemyMgit/P7.git
+[submodule "Gaetan/P3"]
+	path = Gaetan/P3
+	url = https://github.com/Vultronx/P3
+[submodule "Adrien/P8"]
+	path = Adrien/P8
+	url = https://github.com/httpMage/Portfolio
+[submodule "Adrien/P7"]
+	path = Adrien/P7
+	url = https://github.com/httpMage/Poua_Adrien_7_Grimoire_082023
+[submodule "Adrien/P4"]
+	path = Adrien/P4
+	url = https://github.com/httpMage/Poua_Adrien_4_Menu-maker_062023.git
+[submodule "Adrien/P5"]
+	path = Adrien/P5
+	url = https://github.com/httpMage/Poua_Adrien_5_Nina_Carducci_082023.git

@@ -235,3 +235,6 @@
 [submodule "Adrien/P5"]
 	path = Adrien/P5
 	url = https://github.com/httpMage/Poua_Adrien_5_Nina_Carducci_082023.git
+[submodule "Rémy/P6"]
+	path = Rémy/P6
+	url = https://github.com/RemyMgit/P6_kasa.git
